@@ -1,0 +1,31 @@
+C:\Users\user\Source\Repos\AppNomes\AppNomesBr.Infrastructure\bin\Debug\net8.0\AppNomesBr.Infrastructure.deps.json
+C:\Users\user\Source\Repos\AppNomes\AppNomesBr.Infrastructure\bin\Debug\net8.0\AppNomesBr.Infrastructure.dll
+C:\Users\user\Source\Repos\AppNomes\AppNomesBr.Infrastructure\bin\Debug\net8.0\AppNomesBr.Infrastructure.pdb
+C:\Users\user\Source\Repos\AppNomes\AppNomesBr.Infrastructure\bin\Debug\net8.0\AppNomesBr.Domain.dll
+C:\Users\user\Source\Repos\AppNomes\AppNomesBr.Infrastructure\bin\Debug\net8.0\AppNomesBr.Domain.pdb
+C:\Users\user\Source\Repos\AppNomes\AppNomesBr.Infrastructure\obj\Debug\net8.0\AppNomesBr.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\user\Source\Repos\AppNomes\AppNomesBr.Infrastructure\obj\Debug\net8.0\AppNomesBr.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Source\Repos\AppNomes\AppNomesBr.Infrastructure\obj\Debug\net8.0\AppNomesBr.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\AppNomes\AppNomesBr.Infrastructure\obj\Debug\net8.0\AppNomesBr.Infrastructure.AssemblyInfo.cs
+C:\Users\user\Source\Repos\AppNomes\AppNomesBr.Infrastructure\obj\Debug\net8.0\AppNomesBr.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\AppNomes\AppNomesBr.Infrastructure\obj\Debug\net8.0\AppNomesBr.Infrastructure.sourcelink.json
+C:\Users\user\Source\Repos\AppNomes\AppNomesBr.Infrastructure\obj\Debug\net8.0\AppNomes.145A43AE.Up2Date
+C:\Users\user\Source\Repos\AppNomes\AppNomesBr.Infrastructure\obj\Debug\net8.0\AppNomesBr.Infrastructure.dll
+C:\Users\user\Source\Repos\AppNomes\AppNomesBr.Infrastructure\obj\Debug\net8.0\refint\AppNomesBr.Infrastructure.dll
+C:\Users\user\Source\Repos\AppNomes\AppNomesBr.Infrastructure\obj\Debug\net8.0\AppNomesBr.Infrastructure.pdb
+C:\Users\user\Source\Repos\AppNomes\AppNomesBr.Infrastructure\obj\Debug\net8.0\ref\AppNomesBr.Infrastructure.dll
+C:\Users\gbiel\OneDrive\Documentos\ATIVIDADE AVALIATIVA 1\new\AppNomes-main\AppNomesBr.Infrastructure\bin\Debug\net8.0\AppNomesBr.Infrastructure.deps.json
+C:\Users\gbiel\OneDrive\Documentos\ATIVIDADE AVALIATIVA 1\new\AppNomes-main\AppNomesBr.Infrastructure\bin\Debug\net8.0\AppNomesBr.Infrastructure.dll
+C:\Users\gbiel\OneDrive\Documentos\ATIVIDADE AVALIATIVA 1\new\AppNomes-main\AppNomesBr.Infrastructure\bin\Debug\net8.0\AppNomesBr.Infrastructure.pdb
+C:\Users\gbiel\OneDrive\Documentos\ATIVIDADE AVALIATIVA 1\new\AppNomes-main\AppNomesBr.Infrastructure\bin\Debug\net8.0\AppNomesBr.Domain.dll
+C:\Users\gbiel\OneDrive\Documentos\ATIVIDADE AVALIATIVA 1\new\AppNomes-main\AppNomesBr.Infrastructure\bin\Debug\net8.0\AppNomesBr.Domain.pdb
+C:\Users\gbiel\OneDrive\Documentos\ATIVIDADE AVALIATIVA 1\new\AppNomes-main\AppNomesBr.Infrastructure\obj\Debug\net8.0\AppNomesBr.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\gbiel\OneDrive\Documentos\ATIVIDADE AVALIATIVA 1\new\AppNomes-main\AppNomesBr.Infrastructure\obj\Debug\net8.0\AppNomesBr.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gbiel\OneDrive\Documentos\ATIVIDADE AVALIATIVA 1\new\AppNomes-main\AppNomesBr.Infrastructure\obj\Debug\net8.0\AppNomesBr.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\gbiel\OneDrive\Documentos\ATIVIDADE AVALIATIVA 1\new\AppNomes-main\AppNomesBr.Infrastructure\obj\Debug\net8.0\AppNomesBr.Infrastructure.AssemblyInfo.cs
+C:\Users\gbiel\OneDrive\Documentos\ATIVIDADE AVALIATIVA 1\new\AppNomes-main\AppNomesBr.Infrastructure\obj\Debug\net8.0\AppNomesBr.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\gbiel\OneDrive\Documentos\ATIVIDADE AVALIATIVA 1\new\AppNomes-main\AppNomesBr.Infrastructure\obj\Debug\net8.0\AppNomes.145A43AE.Up2Date
+C:\Users\gbiel\OneDrive\Documentos\ATIVIDADE AVALIATIVA 1\new\AppNomes-main\AppNomesBr.Infrastructure\obj\Debug\net8.0\AppNomesBr.Infrastructure.dll
+C:\Users\gbiel\OneDrive\Documentos\ATIVIDADE AVALIATIVA 1\new\AppNomes-main\AppNomesBr.Infrastructure\obj\Debug\net8.0\refint\AppNomesBr.Infrastructure.dll
+C:\Users\gbiel\OneDrive\Documentos\ATIVIDADE AVALIATIVA 1\new\AppNomes-main\AppNomesBr.Infrastructure\obj\Debug\net8.0\AppNomesBr.Infrastructure.pdb
+C:\Users\gbiel\OneDrive\Documentos\ATIVIDADE AVALIATIVA 1\new\AppNomes-main\AppNomesBr.Infrastructure\obj\Debug\net8.0\ref\AppNomesBr.Infrastructure.dll

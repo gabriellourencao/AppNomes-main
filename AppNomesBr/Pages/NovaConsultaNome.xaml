@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="AppNomesBr.Pages.NovaConsultaNome"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    Title="Meu Ranking">
+    <VerticalStackLayout>
+        <Label
+            HorizontalOptions="Center"
+            Text="Inserir o nome"
+            VerticalOptions="Center" />
+
+        <Entry x:Name="TxtNome" Placeholder="Pedro|Maria|Ana|Joao" WidthRequest="300" HorizontalOptions="Start"/>
+        <RadioButton
+            Content="Masculino"
+            GroupName="sexo"
+            CheckedChanged="RadioButton_CheckedChanged"/>
+        <RadioButton
+            Content="Feminino"
+            GroupName="sexo"
+            CheckedChanged="RadioButton_CheckedChanged"/>
+
+        <Button x:Name="BtnPesquisar" Text="Pesquisar" />
+
+        <Button x:Name="BtnDeleteAll" Text="Deletar Todos" />
+
+        <CollectionView x:Name="GrdNomesBr" VerticalOptions="FillAndExpand">
+            <CollectionView.Header>
+                <Grid Padding="5" BackgroundColor="LightBlue">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+                    <Label
+                        Grid.Column="0"
+                        FontAttributes="Bold"
+                        FontSize="18"
+                        Text="Nomes" />
+                    <Label
+                        Grid.Column="1"
+                        FontAttributes="Bold"
+                        FontSize="18"
+                        Text="Ocorrências" />
+                    <Label
+                        Grid.Column="2"
+                        FontAttributes="Bold"
+                        FontSize="18"
+                        Text="Pos. Ranking" />
+                    <Label
+                        Grid.Column="3"
+                        FontAttributes="Bold"
+                        FontSize="18"
+                        Text="Sexo"/>
+                </Grid>
+            </CollectionView.Header>
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Grid Padding="5">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+                        <Label
+                            Grid.Column="0"
+                            FontAttributes="Bold"
+                            FontSize="14"
+                            Text="{Binding Nome}" />
+                        <Label
+                            Grid.Column="1"
+                            FontAttributes="Bold"
+                            FontSize="14"
+                            Text="{Binding Frequencia}" />
+                        <Label
+                            Grid.Column="2"
+                            FontAttributes="Bold"
+                            FontSize="14"
+                            Text="{Binding Ranking}" />
+                        <Label
+                            Grid.Column="3"
+                            FontAttributes="Bold"
+                            FontSize="14"
+                            Text="{Binding Sexo}" />
+
+                    </Grid>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </VerticalStackLayout>
+</ContentPage>

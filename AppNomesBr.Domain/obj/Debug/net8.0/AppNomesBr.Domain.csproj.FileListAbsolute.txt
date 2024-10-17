@@ -1,0 +1,25 @@
+C:\Users\user\Source\Repos\AppNomes\AppNomesBr.Domain\bin\Debug\net8.0\AppNomesBr.Domain.deps.json
+C:\Users\user\Source\Repos\AppNomes\AppNomesBr.Domain\bin\Debug\net8.0\AppNomesBr.Domain.dll
+C:\Users\user\Source\Repos\AppNomes\AppNomesBr.Domain\bin\Debug\net8.0\AppNomesBr.Domain.pdb
+C:\Users\user\Source\Repos\AppNomes\AppNomesBr.Domain\obj\Debug\net8.0\AppNomesBr.Domain.csproj.AssemblyReference.cache
+C:\Users\user\Source\Repos\AppNomes\AppNomesBr.Domain\obj\Debug\net8.0\AppNomesBr.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Source\Repos\AppNomes\AppNomesBr.Domain\obj\Debug\net8.0\AppNomesBr.Domain.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\AppNomes\AppNomesBr.Domain\obj\Debug\net8.0\AppNomesBr.Domain.AssemblyInfo.cs
+C:\Users\user\Source\Repos\AppNomes\AppNomesBr.Domain\obj\Debug\net8.0\AppNomesBr.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\AppNomes\AppNomesBr.Domain\obj\Debug\net8.0\AppNomesBr.Domain.sourcelink.json
+C:\Users\user\Source\Repos\AppNomes\AppNomesBr.Domain\obj\Debug\net8.0\AppNomesBr.Domain.dll
+C:\Users\user\Source\Repos\AppNomes\AppNomesBr.Domain\obj\Debug\net8.0\refint\AppNomesBr.Domain.dll
+C:\Users\user\Source\Repos\AppNomes\AppNomesBr.Domain\obj\Debug\net8.0\AppNomesBr.Domain.pdb
+C:\Users\user\Source\Repos\AppNomes\AppNomesBr.Domain\obj\Debug\net8.0\ref\AppNomesBr.Domain.dll
+C:\Users\gbiel\OneDrive\Documentos\ATIVIDADE AVALIATIVA 1\new\AppNomes-main\AppNomesBr.Domain\bin\Debug\net8.0\AppNomesBr.Domain.deps.json
+C:\Users\gbiel\OneDrive\Documentos\ATIVIDADE AVALIATIVA 1\new\AppNomes-main\AppNomesBr.Domain\bin\Debug\net8.0\AppNomesBr.Domain.dll
+C:\Users\gbiel\OneDrive\Documentos\ATIVIDADE AVALIATIVA 1\new\AppNomes-main\AppNomesBr.Domain\bin\Debug\net8.0\AppNomesBr.Domain.pdb
+C:\Users\gbiel\OneDrive\Documentos\ATIVIDADE AVALIATIVA 1\new\AppNomes-main\AppNomesBr.Domain\obj\Debug\net8.0\AppNomesBr.Domain.csproj.AssemblyReference.cache
+C:\Users\gbiel\OneDrive\Documentos\ATIVIDADE AVALIATIVA 1\new\AppNomes-main\AppNomesBr.Domain\obj\Debug\net8.0\AppNomesBr.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gbiel\OneDrive\Documentos\ATIVIDADE AVALIATIVA 1\new\AppNomes-main\AppNomesBr.Domain\obj\Debug\net8.0\AppNomesBr.Domain.AssemblyInfoInputs.cache
+C:\Users\gbiel\OneDrive\Documentos\ATIVIDADE AVALIATIVA 1\new\AppNomes-main\AppNomesBr.Domain\obj\Debug\net8.0\AppNomesBr.Domain.AssemblyInfo.cs
+C:\Users\gbiel\OneDrive\Documentos\ATIVIDADE AVALIATIVA 1\new\AppNomes-main\AppNomesBr.Domain\obj\Debug\net8.0\AppNomesBr.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gbiel\OneDrive\Documentos\ATIVIDADE AVALIATIVA 1\new\AppNomes-main\AppNomesBr.Domain\obj\Debug\net8.0\AppNomesBr.Domain.dll
+C:\Users\gbiel\OneDrive\Documentos\ATIVIDADE AVALIATIVA 1\new\AppNomes-main\AppNomesBr.Domain\obj\Debug\net8.0\refint\AppNomesBr.Domain.dll
+C:\Users\gbiel\OneDrive\Documentos\ATIVIDADE AVALIATIVA 1\new\AppNomes-main\AppNomesBr.Domain\obj\Debug\net8.0\AppNomesBr.Domain.pdb
+C:\Users\gbiel\OneDrive\Documentos\ATIVIDADE AVALIATIVA 1\new\AppNomes-main\AppNomesBr.Domain\obj\Debug\net8.0\ref\AppNomesBr.Domain.dll
